@@ -1,5 +1,5 @@
-wakari_tutorial
-===============
+Introduction to Data Analysis with IPython and Wakari
+=====================================================
 
 An introductory tutorial covering features of Wakari and IPython
 
